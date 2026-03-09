@@ -1,6 +1,6 @@
-# Información repositorio - Materia Estructura de datos 📐
+# Taller de Logica Aplicada - Ejercicios 29 y 36 📐
  
-Este repositorio contiene lad soluciones a los tallers y parciales de la materia estructura de datos
+Este repositorio contiene la solución al Taller de Logica aplicada en C#, enfocado en la solución de los ejercicios 29 y 36, Utilizando Programación Orientada a Objetos (POO), respetando un diagrama de clases específico.
  
 ## 🚀 Cómo clonar este proyecto
  
