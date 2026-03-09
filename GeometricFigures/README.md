@@ -23,7 +23,7 @@ SDK de .NET (preferiblemente la versión 6.0 o superior).
  
 Pasos para ejecutar el código:
  
-Abre la carpeta clonada y haz doble clic en el archivo GeometricFigures.sln.
+Abre la carpeta clonada y haz doble clic en el archivo GeometricFigures.slnx.
  
 Una vez que abra Visual Studio, presiona las teclas Ctrl + F5 (Iniciar sin depurar).
  
