@@ -1,6 +1,6 @@
 # Taller de Herencia - Figuras Geométricas 📐
  
-Este repositorio contiene la solución al Taller de Herencia en C#, enfocado en el cálculo de áreas y perímetros de diversas figuras geométricas utilizando Programación Orientada a Objetos (POO), respetando un diagrama de clases específico.
+Este repositorio contiene lad soluciones a los tallers y parciales de la materia estructura de datos
  
 ## 🚀 Cómo clonar este proyecto
  
