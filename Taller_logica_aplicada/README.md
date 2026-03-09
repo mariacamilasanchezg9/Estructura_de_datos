@@ -1,4 +1,4 @@
-# Taller de Herencia - Figuras Geométricas 📐
+# Información repositorio - Materia Estructura de datos 📐
  
 Este repositorio contiene lad soluciones a los tallers y parciales de la materia estructura de datos
  
